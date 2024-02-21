@@ -2,8 +2,6 @@ package BadApple.task;
 
 import java.util.Random;
 
-import static java.lang.Integer.parseInt;
-
 public class Tracker {
     public static boolean isSuppressingMsgs = false;
     /**
